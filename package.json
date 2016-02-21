@@ -1,0 +1,26 @@
+{
+  "name": "testGulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Victor Hom",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0-beta.0",
+    "angular-animate": "^1.4.7",
+    "angular-mocks": "^1.4.0",
+    "angular-ui-bootstrap": "^0.14.3",
+    "angular-ui-router": "^0.2.15",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
